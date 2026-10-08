@@ -1,0 +1,15 @@
+{
+	"name": "adfgitSahi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65b21a03-589a-4072-b7fd-6f5b125e5037",
+		"tenantId": "bf0152f0-81e4-4bdf-98d1-641af8e131b9"
+	}
+}
